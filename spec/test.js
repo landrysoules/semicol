@@ -1,1 +1,1 @@
-var pooor;uuyuytuytyuoaop = new Date();
+var date = new 

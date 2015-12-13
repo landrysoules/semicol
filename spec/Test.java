@@ -1,3 +1,3 @@
 public Class Test{
-  private String testName = "MyDumbTest"
+  private String testName() = "MyDumbTest"
 }
