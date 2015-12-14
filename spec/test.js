@@ -1,1 +1,2 @@
-var date = new 
+var date = new Date();
+# I want a semicolon here ;and not here 
