@@ -8,7 +8,7 @@
     "semicolon",
     "typing"
   ],
-  "repository": "https://github.com/atom/semicol",
+  "repository": "https://github.com/landrysoules/semicol",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
