@@ -1,7 +1,7 @@
 {
   "name": "semicol",
   "main": "./lib/semicol",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Automatically positions semi-colon at the end of the line while typing.",
   "keywords": [
     "semi-colon",
@@ -13,6 +13,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
