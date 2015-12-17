@@ -1,2 +1,7 @@
-var date = new Date();
-# I want a semicolon here ;and not here 
+promise
+.then(function(success){
+  pop()
+})
+.catch(function(err){
+  pep()
+})
